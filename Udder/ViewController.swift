@@ -17,6 +17,10 @@ class ViewController: UIViewController {
     override func viewWillLayoutSubviews() {
         //
     }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        //
+    }
 
 }
 
